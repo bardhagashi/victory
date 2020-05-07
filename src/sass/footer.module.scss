@@ -1,0 +1,43 @@
+.social-icons{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    li{
+        width: 36px;
+        height: 36px;
+        display: inline-block;
+        text-align: center;
+        line-height: 36px!important;
+        background-color: #fff;
+        border-radius: 50%;
+        color: #363e50;
+        transition: all 0.5s;    
+        display: inline-block;
+        margin: 0px 5px;
+        .icons{
+            width: 36px;
+            height: 36px;
+            display: inline-block;
+            text-align: center;
+            line-height: 36px!important;
+            background-color: #fff;
+            border-radius: 50%;
+            color: #363e50;
+            transition: all 0.5s;
+        }
+        a{
+            color: #51575d;
+        }
+    }
+}
+p{
+    line-height: 120px;
+    color: #fff;
+    margin-top: 5px;
+    font-size: 13px;
+}
+footer{
+    background-color: #363e50;
+    line-height: 130px;
+    text-align: center;
+}

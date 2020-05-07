@@ -1,0 +1,23 @@
+
+{
+    "content": [
+        {
+            "title": "Breakfast",
+            "image":"/breakfast_item.jpg",
+            "heading":"Kale Chips Art Party",
+            "text": "Dreamcatcher squid ennui cliche chicharros nes echo small batch jean shorts hexagon street art knausgaard wolf..."
+        },
+        {
+            "title": "Lunch",
+            "image":"/lunch_item.jpg",
+            "heading":"Taiyaki Gastro Tousled",
+            "text": "Dreamcatcher squid ennui cliche chicharros nes echo small batch jean shorts hexagon street art knausgaard wolf..."
+        },
+        {
+            "title": "Dinner",
+            "image":"/dinner_item.jpg",
+            "heading":"Batch Squid Jean Shorts ",
+            "text": "Dreamcatcher squid ennui cliche chicharros nes echo small batch jean shorts hexagon street art knausgaard wolf..."
+        }
+    ]
+}

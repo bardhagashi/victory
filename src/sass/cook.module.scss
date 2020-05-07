@@ -1,0 +1,111 @@
+.cook-section{
+    padding: 100px 0px;
+    .first-image{
+        margin-right: -30px;
+        margin-top: 18%;
+      img{
+        width: 100%;
+        overflow: hidden;
+      }  
+      
+    }
+    @media (max-width: 768px){
+        .first-image {
+            margin-right: 0px;
+            margin-top: 0%;
+            padding: 0px 10%;
+            }
+    }
+    @media (max-width: 991px){
+        .first-image {
+            margin-left: 0px;
+            margin-top: 0%;
+            padding: 0px 10%;
+        }
+    }
+    .second-image{
+        margin-left: -30px;
+        margin-top: 18%;
+        img{
+            width: 100%;
+            overflow: hidden;
+        }
+    }
+    @media (max-width: 768px){
+        .second-image {
+            margin-left: 0px;
+            margin-top: 0%;
+            padding: 0px 10%;
+        }
+    }
+    @media (max-width: 991px){
+        .second-image {
+            margin-left: 0px;
+            margin-top: 0%;
+            padding: 0px 10%;
+        }
+    }
+
+}
+.cook-content{
+    background-color: #f2745f;
+    text-align: center;
+    padding: 30px;
+    h4{
+        margin-top: 0px;
+        margin-bottom: 20px;
+        font-size: 22px;
+        font-weight: 700;
+        letter-spacing: 0.5px;
+        text-transform: uppercase;
+        color: #fff;
+    }
+    span{
+        margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 11px;
+    text-transform: uppercase;
+    color: #fff;
+    letter-spacing: 1px;
+    border: 1px solid #da6856;
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+    line-height: 25px;
+    border-radius: 50%;
+    }
+}
+.contact-content{
+    background-color: #f3826f;
+    padding: 20px 30px;
+    span{
+            font-size: 11px;
+            text-transform: uppercase;
+            color: #fff;
+            letter-spacing: 1px;
+            border: none;
+            width: auto;
+            height: auto;
+            margin-top: 0px;
+            margin-bottom: 0px;
+    }
+    h6{
+        font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #fff;
+    letter-spacing: 0.5px;
+    }
+}
+.primary-white-button a{
+    display: inline-block;
+    background-color: #fff;
+    color: #f2745f;
+    font-size: 13px;
+    text-transform: uppercase;
+    font-weight: 500;
+    padding: 12px 20px;
+    border-radius: 3px;
+    text-decoration: none;
+    letter-spacing: 0.5px;
+}

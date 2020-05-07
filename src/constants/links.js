@@ -4,7 +4,7 @@ export default [
     text: "home",
   },
   {
-    path: "/tours",
+    path: "/menus",
     text: "OUR MENUS",
   },
   {

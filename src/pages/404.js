@@ -1,9 +1,12 @@
-import React from 'react'
-import Layout from "../components/Layout"
-export default function error (){
-    return (
+import React from "react"
+import {Link} from 'gatsby'
+import Layout from '../components/layout'
+const NotFound = () =>{
+    return(
         <Layout>
-         hello from error page!!!!
-         </Layout>
+            <h1>Page Not Found </h1>
+            <p><Link to='/'>Head Home</Link></p>
+        </Layout>
     )
 }
+export default NotFound

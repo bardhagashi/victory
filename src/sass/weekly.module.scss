@@ -1,0 +1,49 @@
+h2{
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 80px;
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    color: #121212;
+}
+.featured-food{
+    padding: 100px 0px;
+}
+.inner{
+    display: flex;
+    justify-content: space-between;
+    article{
+     background-color: #f2f6ff;
+     padding: 30px;
+     h3{
+        margin-top: 0px;
+        margin-bottom: 30px;
+        padding-bottom: 8px;
+        font-family: 'Spectral', serif;
+        font-size: 28px;
+        width: 100%;
+        border-bottom: 1px solid #d9dde5;
+        color: #121212;
+      }
+      h4{
+        margin-top: 0px;
+        font-family: 'Spectral', serif;
+        font-size: 18px;
+        color: #121212;
+      }
+      .content{
+        background-color: #fff;
+        padding: 20px 20px 10px 20px;
+        p{
+            color: #9a9a9a;
+            font-size: 13px;
+            line-height: 24px;
+        }
+        img{
+          width: 100%;
+        }
+      }
+     }
+}

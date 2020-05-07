@@ -1,0 +1,20 @@
+.sign-up{
+    padding: 80px 0px;
+    background-image: url(../images/signup-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    text-align: center;
+    .heading{
+        h2{
+            text-align: center;
+            margin-top: 0px;
+            margin-bottom: 40px;
+            font-size: 22px;
+            font-weight: 700;
+            letter-spacing: 0.5px;
+            text-transform: uppercase;
+            color: #fff;
+        }
+    }
+}
